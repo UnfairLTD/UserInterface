@@ -1,4 +1,4 @@
-![Thread](https://repository-images.githubusercontent.com/523426687/680b284b-8dde-42a2-a26f-fa0a2c83acf8)
+[![rayfield](https://user-images.githubusercontent.com/77512805/197843157-3485a6e4-7b18-4372-8277-f3a2e7bd0317.png)](https://discord.gg/sirius)
 
 # Why choose Rayfield?
 ⚖️ Reliable and Stable
