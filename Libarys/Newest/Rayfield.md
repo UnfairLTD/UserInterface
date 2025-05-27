@@ -22,6 +22,14 @@ Found a missing feature that you can't live without? Please suggest it on Discor
 
 # Rayfield Libary
 this libary belongs to Sirius!
+<hr>
+
+## TIP
+* Enable ConfigurationSaving in the CreateWindow function
+* Choose an appropiate FileName in the CreateWindow function
+* Choose an unique flag identifier for each supported element you create
+* Place Rayfield:LoadConfiguration() at the bottom of all your code
+  <hr>
 
 ## Booting the Rayfield Library
 ```lua
@@ -39,6 +47,8 @@ local Window = Rayfield:CreateWindow({
    LoadingTitle = "Rayfield Interface Suite",
    LoadingSubtitle = "by Sirius",
    Theme = "Default", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+
+   ToggleUIKeybind = "K",
 
    DisableRayfieldPrompts = false,
    DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
