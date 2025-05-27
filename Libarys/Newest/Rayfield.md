@@ -12,7 +12,7 @@
   * 🔑 Key System
   * 🔗 Discord Auto Joins
   * 🔔 Notifications
-  *💃 Excellent perfomance
+    * 💃 Excellent perfomance
 
 # Getting Started
 To get started with Rayfield, check out the sidebar at the left. It provides quick links on how to use all of the Rayfield features for your own project. Keep this documentation around so that you can always refer back to it as you build.
