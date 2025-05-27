@@ -261,7 +261,10 @@ Serenity - Serenity
 
 ## Custom Themes
 ```lua
-{
+-- Put the Custom Theme name to :  Theme = "Default",   on the Create window
+   
+
+local CustomTheme = {
     TextColor = Color3.fromRGB(240, 240, 240),
 
     Background = Color3.fromRGB(25, 25, 25),
